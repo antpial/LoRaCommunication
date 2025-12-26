@@ -4,9 +4,6 @@ This repository contains the firmware for the **receiver module** of a telemetry
 
 The project was developed as part of the *"Robot Drivers"* course at Wrocław University of Science and Technology.
 
-![System Architecture](doc/SRschemat.png)
-*Fig 1. System architecture diagram: RPi Zero (Transmitter) -> LoRa -> STM32 (Receiver) -> PC.*
-
 ## 🎯 Project Overview
 
 The goal of this project is to establish a reliable, long-range wireless link between a floating unit and a ground station.
