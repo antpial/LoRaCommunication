@@ -11,7 +11,7 @@ The goal of this project is to establish a reliable, long-range wireless link be
 * **Transmitter (Remote):** Raspberry Pi Zero 2W reading sensors (ADC ADS1015, GPS) and sending data via LoRa.
 * **Receiver (This Repo):** **STM32 BluePill (STM32F103C8T6)** receiving LoRa packets and printing them to a serial terminal.
 
-* ## ⚙️ Hardware
+## ⚙️ Hardware
 
 * **Microcontroller:** STM32F103C8T6 "BluePill".
 * **Communication Module:** LoRa SX1278 (433/868 MHz) operating on SPI.
